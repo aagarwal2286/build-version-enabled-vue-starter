@@ -9,6 +9,7 @@ Exactly this requirement is well taken care by this repository
 
 ## How it Works ?
 It injects the latest commit hash in the build as `VERSION` Global variable. which is used at footer of the Layout
+[Vue starter Application with build](https://postimg.cc/nMHL5v0c)
 
 ## Project setup
 ```
